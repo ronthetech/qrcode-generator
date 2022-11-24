@@ -8,7 +8,7 @@ QR Code Generator - RJT
 
 <!-- ## How It's Made -->
 
-### Tech Used: TypeScript, React, TailwindCSS, Vite
+### Tech Used: HTML, CSS, JavaScript, TypeScript, React, TailwindCSS, Vite
 
 ## Features
 
