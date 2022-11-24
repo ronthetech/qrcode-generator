@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8c886fc1-312b-4c63-ae51-26e92ec86851/deploy-status)](https://app.netlify.com/sites/polite-klepon-2536c2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c886fc1-312b-4c63-ae51-26e92ec86851/deploy-status)](https://app.netlify.com/sites/qrcode-rjt/deploys)
 
 QR Code Generator - RJT
 
